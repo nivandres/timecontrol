@@ -1,0 +1,35 @@
+{
+  "name": "timecontrol",
+  "version": "0.1.0",
+  "description": "Time control for your project. Fake javascript time.",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "type": "module",
+  "author": "nivandres",
+  "keywords": [
+    "time",
+    "control",
+    "fake",
+    "test",
+    "javascript",
+    "fake time",
+    "sleep",
+    "fake sleep",
+    "fake time"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nivandres/timecontrol"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "bun test",
+    "compile": "tsc"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
