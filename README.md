@@ -1,4 +1,4 @@
-# Time Control
+# Time Control for Javascript
 
 Fake the javascript time for your projects.
 
